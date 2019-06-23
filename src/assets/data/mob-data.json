@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 10,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 20,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 30,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 40,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    },
+    {
+      "name": "mobile screen",
+      "id": 1001,
+      "country": "ShriLanka",
+      "price": 3500,
+      "inStock": 0,
+      "image": "./assets/img/1.png",
+      "qntt": 0
+    }
+  ]
+}

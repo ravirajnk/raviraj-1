@@ -1,0 +1,51 @@
+<h4 class="title">
+  We have {{ calcProd() }} products available in our stock...!
+</h4>
+<mat-checkbox>Check me!</mat-checkbox>
+<hr>
+<mat-form-field>
+    <input matInput [matDatepicker]="picker" placeholder="Choose a date">
+    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+    <mat-datepicker #picker></mat-datepicker>
+  </mat-form-field>
+<hr>  
+<ul>
+  <li *ngFor="let mobPart of mobParts">
+    <div class="col s12 m4">
+      <div class="card">
+        <div class="card-image">
+          <img [src]="mobPart.image" />
+          <span class="card-title">{{ mobPart.name | uppercase }}</span>
+          <a class="btn-floating halfway-fab waves-effect waves-light red"
+            ><i class="material-icons">add</i></a
+          >
+        </div>
+        <div class="card-content">
+          <p>
+            I am a very simple card. I am good at containing small bits of
+            information. I am convenient because I require little markup to use
+            effectively.
+          </p>
+          <p>Product available in stock : {{ mobPart.inStock }}</p>
+          <p>Product Id : {{ mobPart.id }}</p>
+          <p>Product Price : {{ mobPart.price | currency: "INR" }}</p>
+          <p style="text-align:center">
+            <a class="waves-effect waves-light btn" (click)="upQntt(mobPart)">
+              <i class="material-icons">add</i>
+            </a>
+
+            <input class="number" [(ngModel)]="mobPart.qntt" />
+
+            <a class="waves-effect waves-light btn" (click)="downQntt(mobPart)">
+              <i class="material-icons">remove</i>
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-- <p>Product Name : {{ mobPart.name | uppercase }}</p>
+    <p>Product available in stock : {{ mobPart.inStock }}</p>
+    <p>Product Id : {{ mobPart.id }}</p>
+    <p>Product Price : {{ mobPart.price | currency: "INR" }}</p> -->
+  </li>
+</ul>
